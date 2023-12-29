@@ -1,7 +1,7 @@
 
 # Mixed-integer programming for reduction of genome-scale metabolic networks
 
-This repository contains a Python-based tool for metabolic network reductiion using COBRApy, ZIMPL, and SCIP.
+This repository contains a Python-based tool for metabolic network reduction using COBRApy, ZIMPL, and SCIP.
 
 ## Features
 
