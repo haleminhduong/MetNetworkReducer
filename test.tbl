@@ -1,0 +1,353 @@
+zimpl	v       0	v$TC1$0    	"v$TC1$0"
+zimpl	v       1	v$TC1$1    	"v$TC1$1"
+zimpl	v       2	v$TC2$0    	"v$TC2$0"
+zimpl	v       3	v$TC2$1    	"v$TC2$1"
+zimpl	v       4	v$TF$0     	"v$TF$0"
+zimpl	v       5	v$TF$1     	"v$TF$1"
+zimpl	v       6	v$TH$0     	"v$TH$0"
+zimpl	v       7	v$TH$1     	"v$TH$1"
+zimpl	v       8	v$TO2$0    	"v$TO2$0"
+zimpl	v       9	v$TO2$1    	"v$TO2$1"
+zimpl	v      10	v$TD$0     	"v$TD$0"
+zimpl	v      11	v$TD$1     	"v$TD$1"
+zimpl	v      12	v$TE$0     	"v$TE$0"
+zimpl	v      13	v$TE$1     	"v$TE$1"
+zimpl	v      14	v$R1$0     	"v$R1$0"
+zimpl	v      15	v$R1$1     	"v$R1$1"
+zimpl	v      16	v$R2$0     	"v$R2$0"
+zimpl	v      17	v$R2$1     	"v$R2$1"
+zimpl	v      18	v$R3$0     	"v$R3$0"
+zimpl	v      19	v$R3$1     	"v$R3$1"
+zimpl	v      20	v$R4$0     	"v$R4$0"
+zimpl	v      21	v$R4$1     	"v$R4$1"
+zimpl	v      22	v$R5a$0    	"v$R5a$0"
+zimpl	v      23	v$R5a$1    	"v$R5a$1"
+zimpl	v      24	v$R5b$0    	"v$R5b$0"
+zimpl	v      25	v$R5b$1    	"v$R5b$1"
+zimpl	v      26	v$R6$0     	"v$R6$0"
+zimpl	v      27	v$R6$1     	"v$R6$1"
+zimpl	v      28	v$R7$0     	"v$R7$0"
+zimpl	v      29	v$R7$1     	"v$R7$1"
+zimpl	v      30	v$R8$0     	"v$R8$0"
+zimpl	v      31	v$R8$1     	"v$R8$1"
+zimpl	v      32	v$Rres$0   	"v$Rres$0"
+zimpl	v      33	v$Rres$1   	"v$Rres$1"
+zimpl	v      34	v$Growth$0 	"v$Growth$0"
+zimpl	v      35	v$Growth$1 	"v$Growth$1"
+zimpl	v      36	af$TC1$0   	"af$TC1$0"
+zimpl	v      37	af$TC1$1   	"af$TC1$1"
+zimpl	v      38	af$TC2$0   	"af$TC2$0"
+zimpl	v      39	af$TC2$1   	"af$TC2$1"
+zimpl	v      40	af$TF$0    	"af$TF$0"
+zimpl	v      41	af$TF$1    	"af$TF$1"
+zimpl	v      42	af$TH$0    	"af$TH$0"
+zimpl	v      43	af$TH$1    	"af$TH$1"
+zimpl	v      44	af$TO2$0   	"af$TO2$0"
+zimpl	v      45	af$TO2$1   	"af$TO2$1"
+zimpl	v      46	af$TD$0    	"af$TD$0"
+zimpl	v      47	af$TD$1    	"af$TD$1"
+zimpl	v      48	af$TE$0    	"af$TE$0"
+zimpl	v      49	af$TE$1    	"af$TE$1"
+zimpl	v      50	af$R1$0    	"af$R1$0"
+zimpl	v      51	af$R1$1    	"af$R1$1"
+zimpl	v      52	af$R2$0    	"af$R2$0"
+zimpl	v      53	af$R2$1    	"af$R2$1"
+zimpl	v      54	af$R3$0    	"af$R3$0"
+zimpl	v      55	af$R3$1    	"af$R3$1"
+zimpl	v      56	af$R4$0    	"af$R4$0"
+zimpl	v      57	af$R4$1    	"af$R4$1"
+zimpl	v      58	af$R5a$0   	"af$R5a$0"
+zimpl	v      59	af$R5a$1   	"af$R5a$1"
+zimpl	v      60	af$R5b$0   	"af$R5b$0"
+zimpl	v      61	af$R5b$1   	"af$R5b$1"
+zimpl	v      62	af$R6$0    	"af$R6$0"
+zimpl	v      63	af$R6$1    	"af$R6$1"
+zimpl	v      64	af$R7$0    	"af$R7$0"
+zimpl	v      65	af$R7$1    	"af$R7$1"
+zimpl	v      66	af$R8$0    	"af$R8$0"
+zimpl	v      67	af$R8$1    	"af$R8$1"
+zimpl	v      68	af$Rres$0  	"af$Rres$0"
+zimpl	v      69	af$Rres$1  	"af$Rres$1"
+zimpl	v      70	af$Growth$0	"af$Growth$0"
+zimpl	v      71	af$Growth$1	"af$Growth$1"
+zimpl	v      72	af_bar$R2$0	"af_bar$R2$0"
+zimpl	v      73	af_bar$R2$1	"af_bar$R2$1"
+zimpl	v      74	af_bar$R8$0	"af_bar$R8$0"
+zimpl	v      75	af_bar$R8$1	"af_bar$R8$1"
+zimpl	v      76	a$TC1      	"a$TC1"
+zimpl	v      77	a$TC2      	"a$TC2"
+zimpl	v      78	a$TF       	"a$TF"
+zimpl	v      79	a$TH       	"a$TH"
+zimpl	v      80	a$TO2      	"a$TO2"
+zimpl	v      81	a$TD       	"a$TD"
+zimpl	v      82	a$TE       	"a$TE"
+zimpl	v      83	a$R1       	"a$R1"
+zimpl	v      84	a$R2       	"a$R2"
+zimpl	v      85	a$R3       	"a$R3"
+zimpl	v      86	a$R4       	"a$R4"
+zimpl	v      87	a$R5a      	"a$R5a"
+zimpl	v      88	a$R5b      	"a$R5b"
+zimpl	v      89	a$R6       	"a$R6"
+zimpl	v      90	a$R7       	"a$R7"
+zimpl	v      91	a$R8       	"a$R8"
+zimpl	v      92	a$Rres     	"a$Rres"
+zimpl	v      93	a$Growth   	"a$Growth"
+zimpl	c       0	Functiona@0	"Functionalities_1"	0.0000000000000000e+00
+zimpl	c       1	SteadySta@1	"SteadyState_1"	0.0000000000000000e+00
+zimpl	c       2	SteadySta@2	"SteadyState_2"	0.0000000000000000e+00
+zimpl	c       3	SteadySta@3	"SteadyState_3"	0.0000000000000000e+00
+zimpl	c       4	SteadySta@4	"SteadyState_4"	0.0000000000000000e+00
+zimpl	c       5	SteadySta@5	"SteadyState_5"	0.0000000000000000e+00
+zimpl	c       6	SteadySta@6	"SteadyState_6"	0.0000000000000000e+00
+zimpl	c       7	SteadySta@7	"SteadyState_7"	0.0000000000000000e+00
+zimpl	c       8	SteadySta@8	"SteadyState_8"	0.0000000000000000e+00
+zimpl	c       9	SteadySta@9	"SteadyState_9"	0.0000000000000000e+00
+zimpl	c      10	SteadySta@a	"SteadyState_10"	0.0000000000000000e+00
+zimpl	c      11	SteadySta@b	"SteadyState_11"	0.0000000000000000e+00
+zimpl	c      12	SteadySta@c	"SteadyState_12"	0.0000000000000000e+00
+zimpl	c      13	SteadySta@d	"SteadyState_13"	0.0000000000000000e+00
+zimpl	c      14	SteadySta@e	"SteadyState_14"	0.0000000000000000e+00
+zimpl	c      15	SteadySta@f	"SteadyState_15"	0.0000000000000000e+00
+zimpl	c      16	SteadySt@10	"SteadyState_16"	0.0000000000000000e+00
+zimpl	c      17	SteadySt@11	"SteadyState_17"	0.0000000000000000e+00
+zimpl	c      18	SteadySt@12	"SteadyState_18"	0.0000000000000000e+00
+zimpl	c      19	SteadySt@13	"SteadyState_19"	0.0000000000000000e+00
+zimpl	c      20	SteadySt@14	"SteadyState_20"	0.0000000000000000e+00
+zimpl	c      21	SteadySt@15	"SteadyState_21"	0.0000000000000000e+00
+zimpl	c      22	SteadySt@16	"SteadyState_22"	0.0000000000000000e+00
+zimpl	c      23	Bounds_1   	"Bounds_1"	0.0000000000000000e+00
+zimpl	c      24	Bounds_2   	"Bounds_2"	0.0000000000000000e+00
+zimpl	c      25	Bounds_3   	"Bounds_3"	0.0000000000000000e+00
+zimpl	c      26	Bounds_4   	"Bounds_4"	0.0000000000000000e+00
+zimpl	c      27	Bounds_5   	"Bounds_5"	0.0000000000000000e+00
+zimpl	c      28	Bounds_6   	"Bounds_6"	0.0000000000000000e+00
+zimpl	c      29	Bounds_7   	"Bounds_7"	0.0000000000000000e+00
+zimpl	c      30	Bounds_8   	"Bounds_8"	0.0000000000000000e+00
+zimpl	c      31	Bounds_9   	"Bounds_9"	0.0000000000000000e+00
+zimpl	c      32	Bounds_10  	"Bounds_10"	0.0000000000000000e+00
+zimpl	c      33	Bounds_11  	"Bounds_11"	0.0000000000000000e+00
+zimpl	c      34	Bounds_12  	"Bounds_12"	0.0000000000000000e+00
+zimpl	c      35	Bounds_13  	"Bounds_13"	0.0000000000000000e+00
+zimpl	c      36	Bounds_14  	"Bounds_14"	0.0000000000000000e+00
+zimpl	c      37	Bounds_15  	"Bounds_15"	0.0000000000000000e+00
+zimpl	c      38	Bounds_16  	"Bounds_16"	0.0000000000000000e+00
+zimpl	c      39	Bounds_17  	"Bounds_17"	0.0000000000000000e+00
+zimpl	c      40	Bounds_18  	"Bounds_18"	0.0000000000000000e+00
+zimpl	c      41	Bounds_19  	"Bounds_19"	0.0000000000000000e+00
+zimpl	c      42	Bounds_20  	"Bounds_20"	0.0000000000000000e+00
+zimpl	c      43	Bounds_21  	"Bounds_21"	0.0000000000000000e+00
+zimpl	c      44	Bounds_22  	"Bounds_22"	0.0000000000000000e+00
+zimpl	c      45	Bounds_23  	"Bounds_23"	0.0000000000000000e+00
+zimpl	c      46	Bounds_24  	"Bounds_24"	0.0000000000000000e+00
+zimpl	c      47	Bounds_25  	"Bounds_25"	0.0000000000000000e+00
+zimpl	c      48	Bounds_26  	"Bounds_26"	0.0000000000000000e+00
+zimpl	c      49	Bounds_27  	"Bounds_27"	0.0000000000000000e+00
+zimpl	c      50	Bounds_28  	"Bounds_28"	0.0000000000000000e+00
+zimpl	c      51	Bounds_29  	"Bounds_29"	0.0000000000000000e+00
+zimpl	c      52	Bounds_30  	"Bounds_30"	0.0000000000000000e+00
+zimpl	c      53	Bounds_31  	"Bounds_31"	0.0000000000000000e+00
+zimpl	c      54	Bounds_32  	"Bounds_32"	0.0000000000000000e+00
+zimpl	c      55	Bounds_33  	"Bounds_33"	0.0000000000000000e+00
+zimpl	c      56	Bounds_34  	"Bounds_34"	0.0000000000000000e+00
+zimpl	c      57	Bounds_35  	"Bounds_35"	0.0000000000000000e+00
+zimpl	c      58	Bounds_36  	"Bounds_36"	0.0000000000000000e+00
+zimpl	c      59	Bounds_37  	"Bounds_37"	0.0000000000000000e+00
+zimpl	c      60	Bounds_38  	"Bounds_38"	0.0000000000000000e+00
+zimpl	c      61	Bounds_39  	"Bounds_39"	0.0000000000000000e+00
+zimpl	c      62	Bounds_40  	"Bounds_40"	0.0000000000000000e+00
+zimpl	c      63	Bounds_41  	"Bounds_41"	0.0000000000000000e+00
+zimpl	c      64	Bounds_42  	"Bounds_42"	0.0000000000000000e+00
+zimpl	c      65	Bounds_43  	"Bounds_43"	0.0000000000000000e+00
+zimpl	c      66	Bounds_44  	"Bounds_44"	0.0000000000000000e+00
+zimpl	c      67	Bounds_45  	"Bounds_45"	0.0000000000000000e+00
+zimpl	c      68	Bounds_46  	"Bounds_46"	0.0000000000000000e+00
+zimpl	c      69	Bounds_47  	"Bounds_47"	0.0000000000000000e+00
+zimpl	c      70	Bounds_48  	"Bounds_48"	0.0000000000000000e+00
+zimpl	c      71	Bounds_49  	"Bounds_49"	0.0000000000000000e+00
+zimpl	c      72	Bounds_50  	"Bounds_50"	0.0000000000000000e+00
+zimpl	c      73	Bounds_51  	"Bounds_51"	0.0000000000000000e+00
+zimpl	c      74	Bounds_52  	"Bounds_52"	0.0000000000000000e+00
+zimpl	c      75	Bounds_53  	"Bounds_53"	0.0000000000000000e+00
+zimpl	c      76	Bounds_54  	"Bounds_54"	0.0000000000000000e+00
+zimpl	c      77	Bounds_55  	"Bounds_55"	0.0000000000000000e+00
+zimpl	c      78	Bounds_56  	"Bounds_56"	0.0000000000000000e+00
+zimpl	c      79	Bounds_57  	"Bounds_57"	0.0000000000000000e+00
+zimpl	c      80	Bounds_58  	"Bounds_58"	0.0000000000000000e+00
+zimpl	c      81	Bounds_59  	"Bounds_59"	0.0000000000000000e+00
+zimpl	c      82	Bounds_60  	"Bounds_60"	0.0000000000000000e+00
+zimpl	c      83	Bounds_61  	"Bounds_61"	0.0000000000000000e+00
+zimpl	c      84	Bounds_62  	"Bounds_62"	0.0000000000000000e+00
+zimpl	c      85	Bounds_63  	"Bounds_63"	0.0000000000000000e+00
+zimpl	c      86	Bounds_64  	"Bounds_64"	0.0000000000000000e+00
+zimpl	c      87	Bounds_65  	"Bounds_65"	0.0000000000000000e+00
+zimpl	c      88	Bounds_66  	"Bounds_66"	0.0000000000000000e+00
+zimpl	c      89	Bounds_67  	"Bounds_67"	0.0000000000000000e+00
+zimpl	c      90	Bounds_68  	"Bounds_68"	0.0000000000000000e+00
+zimpl	c      91	Bounds_69  	"Bounds_69"	0.0000000000000000e+00
+zimpl	c      92	Bounds_70  	"Bounds_70"	0.0000000000000000e+00
+zimpl	c      93	Bounds_71  	"Bounds_71"	0.0000000000000000e+00
+zimpl	c      94	Bounds_72  	"Bounds_72"	0.0000000000000000e+00
+zimpl	c      95	Protecte@5f	"ProtectedRxnIrrev_1"	0.0000000000000000e+00
+zimpl	c      96	Protecte@60	"ProtectedMet_1"	0.0000000000000000e+00
+zimpl	c      97	Irrevv_1   	"Irrevv_1"	0.0000000000000000e+00
+zimpl	c      98	Irrevv_2   	"Irrevv_2"	0.0000000000000000e+00
+zimpl	c      99	Irrevv_3   	"Irrevv_3"	0.0000000000000000e+00
+zimpl	c     100	Irrevv_4   	"Irrevv_4"	0.0000000000000000e+00
+zimpl	c     101	Irrevv_5   	"Irrevv_5"	0.0000000000000000e+00
+zimpl	c     102	Irrevv_6   	"Irrevv_6"	0.0000000000000000e+00
+zimpl	c     103	Irrevv_7   	"Irrevv_7"	0.0000000000000000e+00
+zimpl	c     104	Irrevv_8   	"Irrevv_8"	0.0000000000000000e+00
+zimpl	c     105	Irrevv_9   	"Irrevv_9"	0.0000000000000000e+00
+zimpl	c     106	Irrevv_10  	"Irrevv_10"	0.0000000000000000e+00
+zimpl	c     107	Irrevv_11  	"Irrevv_11"	0.0000000000000000e+00
+zimpl	c     108	Irrevv_12  	"Irrevv_12"	0.0000000000000000e+00
+zimpl	c     109	Irrevv_13  	"Irrevv_13"	0.0000000000000000e+00
+zimpl	c     110	Irrevv_14  	"Irrevv_14"	0.0000000000000000e+00
+zimpl	c     111	Irrevv_15  	"Irrevv_15"	0.0000000000000000e+00
+zimpl	c     112	Irrevv_16  	"Irrevv_16"	0.0000000000000000e+00
+zimpl	c     113	Irrevv_17  	"Irrevv_17"	0.0000000000000000e+00
+zimpl	c     114	Irrevv_18  	"Irrevv_18"	0.0000000000000000e+00
+zimpl	c     115	Irrevv_19  	"Irrevv_19"	0.0000000000000000e+00
+zimpl	c     116	Irrevv_20  	"Irrevv_20"	0.0000000000000000e+00
+zimpl	c     117	Irrevv_21  	"Irrevv_21"	0.0000000000000000e+00
+zimpl	c     118	Irrevv_22  	"Irrevv_22"	0.0000000000000000e+00
+zimpl	c     119	Irrevv_23  	"Irrevv_23"	0.0000000000000000e+00
+zimpl	c     120	Irrevv_24  	"Irrevv_24"	0.0000000000000000e+00
+zimpl	c     121	Irrevv_25  	"Irrevv_25"	0.0000000000000000e+00
+zimpl	c     122	Irrevv_26  	"Irrevv_26"	0.0000000000000000e+00
+zimpl	c     123	Irrevv_27  	"Irrevv_27"	0.0000000000000000e+00
+zimpl	c     124	Irrevv_28  	"Irrevv_28"	0.0000000000000000e+00
+zimpl	c     125	Irrevv_29  	"Irrevv_29"	0.0000000000000000e+00
+zimpl	c     126	Irrevv_30  	"Irrevv_30"	0.0000000000000000e+00
+zimpl	c     127	Irrevv_31  	"Irrevv_31"	0.0000000000000000e+00
+zimpl	c     128	Irrevv_32  	"Irrevv_32"	0.0000000000000000e+00
+zimpl	c     129	Irrevv_33  	"Irrevv_33"	0.0000000000000000e+00
+zimpl	c     130	Irrevv_34  	"Irrevv_34"	0.0000000000000000e+00
+zimpl	c     131	Irrevv_35  	"Irrevv_35"	0.0000000000000000e+00
+zimpl	c     132	Irrevv_36  	"Irrevv_36"	0.0000000000000000e+00
+zimpl	c     133	Irrevv_37  	"Irrevv_37"	0.0000000000000000e+00
+zimpl	c     134	Irrevv_38  	"Irrevv_38"	0.0000000000000000e+00
+zimpl	c     135	Irrevv_39  	"Irrevv_39"	0.0000000000000000e+00
+zimpl	c     136	Irrevv_40  	"Irrevv_40"	0.0000000000000000e+00
+zimpl	c     137	Irrevv_41  	"Irrevv_41"	0.0000000000000000e+00
+zimpl	c     138	Irrevv_42  	"Irrevv_42"	0.0000000000000000e+00
+zimpl	c     139	Irrevv_43  	"Irrevv_43"	0.0000000000000000e+00
+zimpl	c     140	Irrevv_44  	"Irrevv_44"	0.0000000000000000e+00
+zimpl	c     141	Irrevv_45  	"Irrevv_45"	0.0000000000000000e+00
+zimpl	c     142	Irrevv_46  	"Irrevv_46"	0.0000000000000000e+00
+zimpl	c     143	Irrevv_47  	"Irrevv_47"	0.0000000000000000e+00
+zimpl	c     144	Irrevv_48  	"Irrevv_48"	0.0000000000000000e+00
+zimpl	c     145	Irrevv_49  	"Irrevv_49"	0.0000000000000000e+00
+zimpl	c     146	Irrevv_50  	"Irrevv_50"	0.0000000000000000e+00
+zimpl	c     147	Irrevv_51  	"Irrevv_51"	0.0000000000000000e+00
+zimpl	c     148	Irrevv_52  	"Irrevv_52"	0.0000000000000000e+00
+zimpl	c     149	Irrevv_53  	"Irrevv_53"	0.0000000000000000e+00
+zimpl	c     150	Irrevv_54  	"Irrevv_54"	0.0000000000000000e+00
+zimpl	c     151	Irrevv_55  	"Irrevv_55"	0.0000000000000000e+00
+zimpl	c     152	Irrevv_56  	"Irrevv_56"	0.0000000000000000e+00
+zimpl	c     153	Irrevv_57  	"Irrevv_57"	0.0000000000000000e+00
+zimpl	c     154	Irrevv_58  	"Irrevv_58"	0.0000000000000000e+00
+zimpl	c     155	Irrevv_59  	"Irrevv_59"	0.0000000000000000e+00
+zimpl	c     156	Irrevv_60  	"Irrevv_60"	0.0000000000000000e+00
+zimpl	c     157	Irrevv_61  	"Irrevv_61"	0.0000000000000000e+00
+zimpl	c     158	Irrevv_62  	"Irrevv_62"	0.0000000000000000e+00
+zimpl	c     159	Irrevv_63  	"Irrevv_63"	0.0000000000000000e+00
+zimpl	c     160	Irrevv_64  	"Irrevv_64"	0.0000000000000000e+00
+zimpl	c     161	Revv_1     	"Revv_1"	0.0000000000000000e+00
+zimpl	c     162	Revv_2     	"Revv_2"	0.0000000000000000e+00
+zimpl	c     163	Revv_3     	"Revv_3"	0.0000000000000000e+00
+zimpl	c     164	Revv_4     	"Revv_4"	0.0000000000000000e+00
+zimpl	c     165	Revv_5     	"Revv_5"	0.0000000000000000e+00
+zimpl	c     166	Revv_6     	"Revv_6"	0.0000000000000000e+00
+zimpl	c     167	Revv_7     	"Revv_7"	0.0000000000000000e+00
+zimpl	c     168	Revv_8     	"Revv_8"	0.0000000000000000e+00
+zimpl	c     169	Reva_1     	"Reva_1"	0.0000000000000000e+00
+zimpl	c     170	Reva_2     	"Reva_2"	0.0000000000000000e+00
+zimpl	c     171	Reva_3     	"Reva_3"	0.0000000000000000e+00
+zimpl	c     172	Reva_4     	"Reva_4"	0.0000000000000000e+00
+zimpl	c     173	FunIrrev_1 	"FunIrrev_1"	0.0000000000000000e+00
+zimpl	c     174	FunIrrev_2 	"FunIrrev_2"	0.0000000000000000e+00
+zimpl	c     175	FunIrrev_3 	"FunIrrev_3"	0.0000000000000000e+00
+zimpl	c     176	FunIrrev_4 	"FunIrrev_4"	0.0000000000000000e+00
+zimpl	c     177	FunIrrev_5 	"FunIrrev_5"	0.0000000000000000e+00
+zimpl	c     178	FunIrrev_6 	"FunIrrev_6"	0.0000000000000000e+00
+zimpl	c     179	FunIrrev_7 	"FunIrrev_7"	0.0000000000000000e+00
+zimpl	c     180	FunIrrev_8 	"FunIrrev_8"	0.0000000000000000e+00
+zimpl	c     181	FunIrrev_9 	"FunIrrev_9"	0.0000000000000000e+00
+zimpl	c     182	FunIrrev_10	"FunIrrev_10"	0.0000000000000000e+00
+zimpl	c     183	FunIrrev_11	"FunIrrev_11"	0.0000000000000000e+00
+zimpl	c     184	FunIrrev_12	"FunIrrev_12"	0.0000000000000000e+00
+zimpl	c     185	FunIrrev_13	"FunIrrev_13"	0.0000000000000000e+00
+zimpl	c     186	FunIrrev_14	"FunIrrev_14"	0.0000000000000000e+00
+zimpl	c     187	FunIrrev_15	"FunIrrev_15"	0.0000000000000000e+00
+zimpl	c     188	FunIrrev_16	"FunIrrev_16"	0.0000000000000000e+00
+zimpl	c     189	FunIrrev_17	"FunIrrev_17"	0.0000000000000000e+00
+zimpl	c     190	FunIrrev_18	"FunIrrev_18"	0.0000000000000000e+00
+zimpl	c     191	FunIrrev_19	"FunIrrev_19"	0.0000000000000000e+00
+zimpl	c     192	FunIrrev_20	"FunIrrev_20"	0.0000000000000000e+00
+zimpl	c     193	FunIrrev_21	"FunIrrev_21"	0.0000000000000000e+00
+zimpl	c     194	FunIrrev_22	"FunIrrev_22"	0.0000000000000000e+00
+zimpl	c     195	FunIrrev_23	"FunIrrev_23"	0.0000000000000000e+00
+zimpl	c     196	FunIrrev_24	"FunIrrev_24"	0.0000000000000000e+00
+zimpl	c     197	FunIrrev_25	"FunIrrev_25"	0.0000000000000000e+00
+zimpl	c     198	FunIrrev_26	"FunIrrev_26"	0.0000000000000000e+00
+zimpl	c     199	FunIrrev_27	"FunIrrev_27"	0.0000000000000000e+00
+zimpl	c     200	FunIrrev_28	"FunIrrev_28"	0.0000000000000000e+00
+zimpl	c     201	FunIrrev_29	"FunIrrev_29"	0.0000000000000000e+00
+zimpl	c     202	FunIrrev_30	"FunIrrev_30"	0.0000000000000000e+00
+zimpl	c     203	FunIrrev_31	"FunIrrev_31"	0.0000000000000000e+00
+zimpl	c     204	FunIrrev_32	"FunIrrev_32"	0.0000000000000000e+00
+zimpl	c     205	FunRev_1   	"FunRev_1"	0.0000000000000000e+00
+zimpl	c     206	FunRev_2   	"FunRev_2"	0.0000000000000000e+00
+zimpl	c     207	FunRev_3   	"FunRev_3"	0.0000000000000000e+00
+zimpl	c     208	FunRev_4   	"FunRev_4"	0.0000000000000000e+00
+zimpl	c     209	prevSubs_1 	"prevSubs_1"	0.0000000000000000e+00
+zimpl	c     210	prevSubs_2 	"prevSubs_2"	0.0000000000000000e+00
+zimpl	c     211	prevSubs_3 	"prevSubs_3"	0.0000000000000000e+00
+zimpl	c     212	prevSubs_4 	"prevSubs_4"	0.0000000000000000e+00
+zimpl	c     213	prevSubs_5 	"prevSubs_5"	0.0000000000000000e+00
+zimpl	c     214	prevSubs_6 	"prevSubs_6"	0.0000000000000000e+00
+zimpl	c     215	prevSubs_7 	"prevSubs_7"	0.0000000000000000e+00
+zimpl	c     216	prevSubs_8 	"prevSubs_8"	0.0000000000000000e+00
+zimpl	c     217	prevSubs_9 	"prevSubs_9"	0.0000000000000000e+00
+zimpl	c     218	prevSubs_10	"prevSubs_10"	0.0000000000000000e+00
+zimpl	c     219	prevSubs_11	"prevSubs_11"	0.0000000000000000e+00
+zimpl	c     220	prevSubs_12	"prevSubs_12"	0.0000000000000000e+00
+zimpl	c     221	prevSubs_13	"prevSubs_13"	0.0000000000000000e+00
+zimpl	c     222	prevSubs_14	"prevSubs_14"	0.0000000000000000e+00
+zimpl	c     223	prevSubs_15	"prevSubs_15"	0.0000000000000000e+00
+zimpl	c     224	prevSubs_16	"prevSubs_16"	0.0000000000000000e+00
+zimpl	c     225	prevSubs_17	"prevSubs_17"	0.0000000000000000e+00
+zimpl	c     226	prevSubs_18	"prevSubs_18"	0.0000000000000000e+00
+zimpl	c     227	prevSubs_19	"prevSubs_19"	0.0000000000000000e+00
+zimpl	c     228	prevSubs_20	"prevSubs_20"	0.0000000000000000e+00
+zimpl	c     229	prevSubs_21	"prevSubs_21"	0.0000000000000000e+00
+zimpl	c     230	prevSubs_22	"prevSubs_22"	0.0000000000000000e+00
+zimpl	c     231	prevSubs_23	"prevSubs_23"	0.0000000000000000e+00
+zimpl	c     232	prevSubs_24	"prevSubs_24"	0.0000000000000000e+00
+zimpl	c     233	prevSubs_25	"prevSubs_25"	0.0000000000000000e+00
+zimpl	c     234	prevSubs_26	"prevSubs_26"	0.0000000000000000e+00
+zimpl	c     235	prevSubs_27	"prevSubs_27"	0.0000000000000000e+00
+zimpl	c     236	prevSubs_28	"prevSubs_28"	0.0000000000000000e+00
+zimpl	c     237	prevSubs_29	"prevSubs_29"	0.0000000000000000e+00
+zimpl	c     238	prevSubs_30	"prevSubs_30"	0.0000000000000000e+00
+zimpl	c     239	prevSubs_31	"prevSubs_31"	0.0000000000000000e+00
+zimpl	c     240	prevSubs_32	"prevSubs_32"	0.0000000000000000e+00
+zimpl	c     241	prevSubs_33	"prevSubs_33"	0.0000000000000000e+00
+zimpl	c     242	prevSubs_34	"prevSubs_34"	0.0000000000000000e+00
+zimpl	c     243	prevSubs_35	"prevSubs_35"	0.0000000000000000e+00
+zimpl	c     244	prevSubs_36	"prevSubs_36"	0.0000000000000000e+00
+zimpl	c     245	prevSubs_37	"prevSubs_37"	0.0000000000000000e+00
+zimpl	c     246	prevSubs_38	"prevSubs_38"	0.0000000000000000e+00
+zimpl	c     247	prevSubs_39	"prevSubs_39"	0.0000000000000000e+00
+zimpl	c     248	prevSubs_40	"prevSubs_40"	0.0000000000000000e+00
+zimpl	c     249	prevSubs_41	"prevSubs_41"	0.0000000000000000e+00
+zimpl	c     250	prevSubs_42	"prevSubs_42"	0.0000000000000000e+00
+zimpl	c     251	prevSubs_43	"prevSubs_43"	0.0000000000000000e+00
+zimpl	c     252	prevSubs_44	"prevSubs_44"	0.0000000000000000e+00
+zimpl	c     253	prevSubs_45	"prevSubs_45"	0.0000000000000000e+00
+zimpl	c     254	prevSubs_46	"prevSubs_46"	0.0000000000000000e+00
+zimpl	c     255	prevSubs_47	"prevSubs_47"	0.0000000000000000e+00
+zimpl	c     256	prevSubs_48	"prevSubs_48"	0.0000000000000000e+00
+zimpl	c     257	prevSubs_49	"prevSubs_49"	0.0000000000000000e+00
+zimpl	o       0	network    	"network"
