@@ -1,5 +1,5 @@
 
-# Metabolic Network Analysis Tool
+# Mixed-integer programming for reduction of genome-scale metabolic networks
 
 This repository contains a Python-based tool for metabolic network analysis using COBRApy, ZIMPL, and SCIP. It enables the exploration, modification, and reduction of metabolic networks.
 
