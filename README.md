@@ -64,10 +64,6 @@ Follow the GUI instructions to load models, set parameters, and run the analysis
 
 Contributions are welcome! Please read our contributing guidelines for details on how to submit pull requests, report issues, or request features.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 Thanks to all the contributors and users of the COBRApy, SCIP, and ZIMPL communities.
