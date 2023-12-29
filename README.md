@@ -57,7 +57,7 @@ Follow the GUI instructions to load models, set parameters, and run the analysis
 
 ## File Descriptions
 
-- `main.py`: Main Python script with GUI and analysis logic.
+- `reduce.py`: Main Python script with GUI and analysis logic.
 - `zimpl_txt/`: Directory containing ZIMPL files for model constraints and parameters.
 
 ## Contributing
